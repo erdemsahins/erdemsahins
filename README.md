@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [ChatBotApp](https://github.com/erdemsahins/ChatBotApp)
 
-- 🌱 I’m currently learning **artificial intelligence**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 💬 Ask me about **Python**
 
