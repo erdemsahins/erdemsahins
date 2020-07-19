@@ -2,9 +2,11 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdemsahins" alt="erdemsahins" /> </p>
 
-- 💬 Ask me about **Python**
-
 - 🔭 I’m currently working on [ChatBotApp](https://github.com/erdemsahins/ChatBotApp)
+
+- 🌱 I’m currently learning **artificial intelligence**
+
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **erdemsahins34@gmail.com**
 
